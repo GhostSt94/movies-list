@@ -1,4 +1,4 @@
-# spotify-api
+# movies-api
 
 ## Project setup
 ```
